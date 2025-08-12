@@ -1,17 +1,46 @@
-<!-- Banner principal con tu foto -->
 <p align="center">
-  <img width="253" height="266" alt="foto_perfil" src="https://github.com/user-attachments/assets/2faee7d0-80ef-4474-871a-16df4b26969d" />
+  <img width="400" height="418" alt="profile_photo" src="https://github.com/user-attachments/assets/322cbf53-2873-47f3-b838-600232ca6828" />
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40afdddd-2084-48bb-8925-005a816f2857" alt="separator" width="100%" />
+</p>
+## 👨🏻‍💻 About Me  
 
-## 👨‍💻 Sobre mí  
-Apasionado por la tecnología y el desarrollo de software, con conocimientos en diversas áreas como **HTML, CSS, Django, JavaScript, MySQL, Python y C++**.  
-Me gusta aprender y explorar nuevas herramientas y lenguajes, lo que me permite adaptarme a diferentes entornos y desafíos.  
-Aunque no me especializo en un solo campo, disfruto experimentar y combinar distintas tecnologías para crear soluciones prácticas, funcionales y visualmente atractivas.  
-Siempre busco mejorar mis habilidades y mantenerme actualizado en las tendencias del desarrollo y el diseño.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 💡 &nbsp; I enjoy exploring new technologies and creating **practical, functional, and visually appealing software solutions**.  
+- 🎓 &nbsp; Currently studying **Software Development** at *Corporación Universitaria Minuto de Dios (UNIMINUTO)*.  
+- 🌱 &nbsp; Expanding my skills in **web development**, **database management**, and **integration between platforms and game engines**.  
+
+</td>
+<td width="50%" valign="top">
+
+- ✍️ &nbsp; In my free time, I like to experiment with **new programming languages**, design with **Canva**, and explore **creative tech projects**.  
+- 💬 &nbsp; Open to collaborating on **innovative projects**, sharing ideas, or discussing **technology trends**.  
+- 📧 &nbsp; Email me at **werttoledo@icloud.com** — I’ll reply as soon as possible.  
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40afdddd-2084-48bb-8925-005a816f2857" alt="separator" width="100%" />
+</p>
+
+## 👨‍💻 More About Me  
+
+Passionate about technology and software development, with knowledge in **HTML, CSS, Django, JavaScript, MySQL, Python, and C++**.  
+I enjoy learning and exploring new tools and programming languages, which allows me to adapt to different environments and challenges.  
+Although I don’t specialize in a single field, I like experimenting and combining various technologies to create practical, functional, and visually appealing solutions.  
+I am always seeking to improve my skills and stay updated with the latest trends in development and design.  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40afdddd-2084-48bb-8925-005a816f2857" alt="separator" width="100%" />
+</p>
 
 ## 🚀 Technologies That I Know  
 
@@ -29,7 +58,9 @@ Siempre busco mejorar mis habilidades y mantenerme actualizado en las tendencias
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40afdddd-2084-48bb-8925-005a816f2857" alt="separator" width="100%" />
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -40,8 +71,11 @@ Siempre busco mejorar mis habilidades y mantenerme actualizado en las tendencias
 </a>
 </p>
 
-## 🌐 Contacto
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40afdddd-2084-48bb-8925-005a816f2857" alt="separator" width="100%" />
+</p>
+
+## 🌐 Contact
 - 📍 Villavicencio, Meta, Colombia  
 - 💼 [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
 - 📧 Email: werttoledo@icloud.com
-
