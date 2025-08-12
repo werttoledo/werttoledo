@@ -31,7 +31,7 @@
   <img src="https://github.com/user-attachments/assets/40afdddd-2084-48bb-8925-005a816f2857" alt="separator" width="100%" />
 </p>
 
-## 👨‍💻 More About Me  
+👨‍💻 More About Me  
 
 Passionate about technology and software development, with knowledge in **HTML, CSS, Django, JavaScript, MySQL, Python, and C++**.  
 I enjoy learning and exploring new tools and programming languages, which allows me to adapt to different environments and challenges.  
