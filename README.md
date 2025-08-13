@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/40afdddd-2084-48bb-8925-005a816f2857" alt="separator" width="100%" />
 </p>
-## 👨🏻‍💻 About Me  
+ 👨🏻‍💻 About Me  
 
 
 <table>
